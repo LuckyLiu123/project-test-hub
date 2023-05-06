@@ -1,0 +1,20 @@
+{
+  "name": "project-test-hub",
+  "version": "1.0.0",
+  "description": "前端工程化配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyLiu123/project-test-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyLiu123/project-test-hub/issues"
+  },
+  "homepage": "https://github.com/LuckyLiu123/project-test-hub#readme"
+}
